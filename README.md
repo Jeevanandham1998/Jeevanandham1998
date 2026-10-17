@@ -1,65 +1,145 @@
-<h1 align="center">Hi 👋, I'm Jeevanandham</h1>
-<h3 align="center">Full Stack Developer | Coding Trainer | Problem Solver</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Jeevanandham&fontSize=55&fontColor=00FF41&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Coding%20Trainer&descSize=18&descAlignY=60&descColor=FFFFFF" width="100%" alt="Header" />
+</p>
 
 <p align="center">
-  I build complete web applications, from the database to the user interface.<br>
-  With a background as a computer institute trainer, I enjoy writing clean code and explaining it simply.
+  <a href="https://github.com/Jeevanandham1998">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami+%3E+Jeevanandham;Full+Stack+Developer;Coding+Trainer+%26+Mentor;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="[YOUR LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="mailto:[YOUR EMAIL]"><img src="https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a" alt="Email" /></a>
+  <a href="[YOUR RESUME LINK]"><img src="https://img.shields.io/badge/Resume-View-00FF41?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=0a0a0a" alt="Resume" /></a>
+  <a href="https://github.com/Jeevanandham1998"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0a0a0a" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeevanandham1998&label=PROFILE%20VIEWS&color=00FF41&labelColor=0a0a0a&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Full stack developer building web apps end to end
-- 👨‍🏫 Former computer institute trainer, I taught coding to students from scratch
-- 🔭 Currently working on [your project]
-- 🌱 Currently learning [e.g. TypeScript, Next.js, Docker, AWS]
-- 👯 Open to collaborating on [open source / web projects]
-- 💬 Ask me about [JavaScript, React, Node.js, databases, teaching coding]
-- 📫 Reach me: [email] | [LinkedIn]
+<h2 align="center">&gt;_ About Me</h2>
+
+```bash
+$ whoami
+jeevanandham
+
+$ cat about.txt
+Full stack developer and computer institute trainer.
+I teach coding from the ground up and build web applications end to end,
+from database to user interface.
+
+$ ls skills/
+frontend  backend  databases  tools
+
+$ echo $MISSION
+"Write clean code. Teach it simply. Ship it."
+```
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h4>🎓 Current Role</h4>
+      <p><b>Computer Institute Trainer</b><br /><sub>Teaching coding and web development</sub></p>
+    </td>
+    <td width="50%" align="center">
+      <h4>🌱 Currently Learning</h4>
+      <p><b>[e.g. React, Node.js, System Design]</b><br /><sub>Always leveling up</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h4>💬 Ask Me About</h4>
+      <p><b>[e.g. JavaScript, Python, Java, Web Dev]</b><br /><sub>Concepts, debugging, career guidance</sub></p>
+    </td>
+    <td width="50%" align="center">
+      <h4>👯 Open To</h4>
+      <p><b>Collaboration and Opportunities</b><br /><sub>[Web projects, open source, full stack roles]</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">&gt;_ Tech Stack</h2>
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanandham1998&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevanandham1998&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java&theme=dark" alt="Languages" />
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="Frontend" />
+</p>
+
+<p align="center"><b>Backend and Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Backend" />
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Tools" />
+</p>
+
+<!-- Keep only the technologies you actually know. Icon names: https://skillicons.dev -->
+
+---
+
+<h2 align="center">&gt;_ Featured Projects</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>[Project Name]</h3>
+      <p><i>[One-line description]</i></p>
+      <p><sub>[Tech used]</sub></p>
+      <a href="[LIVE DEMO URL]"><img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&labelColor=0a0a0a&logoColor=black" alt="Demo" /></a>
+      <a href="[REPO URL]"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0a0a0a" alt="Source" /></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>[Project Name]</h3>
+      <p><i>[One-line description]</i></p>
+      <p><sub>[Tech used]</sub></p>
+      <a href="[LIVE DEMO URL]"><img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&labelColor=0a0a0a&logoColor=black" alt="Demo" /></a>
+      <a href="[REPO URL]"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0a0a0a" alt="Source" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">&gt;_ GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanandham1998&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevanandham1998&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=C9D1D9" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jeevanandham1998&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contributiongrid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-- **[Project name]**: short description, tech used ([link])
-- **[Project name]**: short description, tech used ([link])
+<h2 align="center">&gt;_ Let's Connect</h2>
 
----
+<p align="center"><i>Want to talk code, teaching, or collaboration? My inbox is open.</i></p>
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+<p align="center">
+  <a href="[YOUR LINKEDIN URL]"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:[YOUR EMAIL]"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Jeevanandham1998"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=100&section=footer" width="100%" alt="Footer" />
+</p>
